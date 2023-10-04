@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="fr">
-<head>
+  <head>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -73,20 +73,18 @@
                         </a>
                       </li>
                       <li class="dropdown">
-                        <a class="nav-link" href="about.html" id="about_submenu" role="button"  >A Propos</a>
-                
+                        <a class="nav-link" href="about.html" id="about_submenu" role="button">A Propos</a>
                       <li class="dropdown">
                         <a class="nav-link" href="#blog" id="experience_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                           Blog
                         </a>
-                       
                       </li>
                       <li class="dropdown">
                       <a class="nav-link" href="#" id="portfolio_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Nos services 
                       </a>
                       <ul class="submenu dropdown-menu" aria-labelledby="portfolio_submenu">
-                        <li><a href="service.html">Shop</a></li>
+                        <li><a href="service.html">Nos offres de services</a></li>
                         <li><a href="shop_details.html">Shop Details</a></li>
                       </ul>
                     </li>
@@ -101,14 +99,8 @@
           </div>
         </div>
 
-     
         <!-- collapse search - end -->
       </header>
-      <!-- header_section - end
-      ================================================== -->
-
-      <!-- main body - start
-      ================================================== -->
       <main>
         <!-- slider_section - start
         ================================================== -->
@@ -356,7 +348,6 @@
                     </ul>
                   </div>
                 </div>
-             
               </div>
               <hr>
                     <div class="col-lg-6 col-md-6">
@@ -518,7 +509,7 @@
 
         <div class="footer_bottom text-center">
           <div class="container">
-            <p class="copyright_text mb-0">Copyright@ 2021 Desing by <a href="https://themeforest.net/user/xpressrow">Xpressrow</a></p>
+            <p class="copyright_text mb-0"> Desing by <a href="https://themeforest.net/user/xpressrow">Xpressrow</a></p>
           </div>
         </div>
       </footer>
@@ -553,9 +544,7 @@
 
     <!-- off canvas sidebar - jquery include -->
     <script src="assets/js/mCustomScrollbar.js"></script>
-
     <!-- custom - jquery include -->
     <script src="assets/js/main.js"></script>
-
   </body>
 </html>

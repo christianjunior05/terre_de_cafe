@@ -46,7 +46,6 @@
         </a>
       </div>
       <!-- backtotop - end -->
-
       <!-- preloader - start -->
       <div id="preloader"></div>
       <!-- preloader - end -->
@@ -79,13 +78,12 @@
                         </a>
                       </li>
                       <li class="dropdown">
-                        <a class="nav-link" href="about.html" id="about_submenu" role="button"  >A Propos</a>
+                        <a class="nav-link" href="about.html" id="about_submenu" role="button" >A Propos</a>
                 
                       <li class="dropdown">
                         <a class="nav-link" href="#" id="experience_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                           Blog
                         </a>
-                          <li><a class="nav-link" href="#blog">Blog</a></li>
                       </li>
                       <li class="dropdown">
                       <a class="nav-link" href="#" id="portfolio_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -97,7 +95,7 @@
                       </ul>
                     </li>
                       <li>
-                        <a class="nav-link" href="#contact">Contactez-nous</a>
+                        <a class="nav-link" href="contact.html">Contactez-nous</a>
                       </li>
                     </ul>
                   </div>
@@ -122,11 +120,7 @@
         </div>
         <!-- collapse search - end -->
       </header>
-      <!-- header_section - end
-      ================================================== -->
 
-      <!-- main body - start
-      ================================================== -->
       <main>
         <!-- slider_section - start
         ================================================== -->
