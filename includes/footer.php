@@ -121,7 +121,7 @@
 
         <div class="footer_bottom text-center">
           <div class="container">
-            <p class="copyright_text mb-0">Copyright@ 2021 Desing by <a href="https://themeforest.net/user/xpressrow">Xpressrow</a></p>
+            <p class="copyright_text mb-0"> Desing by <a href="https://themeforest.net/user/xpressrow">Xpressrow</a></p>
           </div>
         </div>
       </footer>

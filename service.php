@@ -1,9 +1,7 @@
 <!doctype html>
 <html lang="fr">
-
 <?php include_once 'includes/header.php'; ?>
 <?php include_once 'includes/navbar.php'; ?>
- 
 
   <body>
 
@@ -17,11 +15,6 @@
         </a>
       </div>
       <div id="preloader"></div>
-      <!-- preloader - end -->
-
-      <!-- header_section - start
-      ================================================== -->
-      
       <main>
         <!-- slider_section - start
         ================================================== -->
@@ -38,14 +31,13 @@
                   <div class="col-lg-4 col-md-6 order-first">
                     <div class="slider_content">
                       <h3 class="title_text text-uppercase" data-animation="fadeInUp" data-delay=".4s">
-                       Conseils personnalisés
+                          Conseils personnalisés
                       </h3>
                     
                       <p data-animation="fadeInUp" data-delay=".6s">
                         <h4>Des experts à votre écoute</h4>
                         Nos commerciaux sont tous experts café. Ils analysent parfaitement vos besoins afin de trouver la meilleure solution pour votre établissement. 
                       </p>
-                    
                     </div>
                   </div>
                 
@@ -304,14 +296,7 @@
             </div>
           </section>
 
-
-      <!-- footer_section - start
-      ================================================== -->
       <?php include_once 'includes/footer.php'; ?>
- 
-
-      <!-- footer_section - end
-      ================================================== -->
 
     </div>
     <!-- body_wrap - end -->

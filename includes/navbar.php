@@ -36,7 +36,7 @@
                         Nos services 
                       </a>
                       <ul class="submenu dropdown-menu" aria-labelledby="portfolio_submenu">
-                        <li><a href="service.php">Shop</a></li>
+                        <li><a href="service.php">service</a></li>
                         <li><a href="shop_details.php">Shop Details</a></li>
                       </ul>
                     </li>
@@ -50,7 +50,6 @@
             </div>
           </div>
         </div>
-
         <!-- collapse search - start -->
         <div class="main_search_collapse collapse" id="main_search_collapse">
           <div class="main_search_form card">
