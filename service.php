@@ -1,36 +1,10 @@
 <!doctype html>
 <html lang="fr">
-  <head>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-    
+<?php include_once 'includes/header.php'; ?>
+<?php include_once 'includes/navbar.php'; ?>
+ 
 
-    <title>Terre de café</title>
-    <link rel="shortcut icon" href="assets/images/logo/favourite_icon.png">
-
-    <!-- fraimwork - css include -->
-    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
-
-    <!-- animation - css include -->
-    <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
-
-    <!-- carousel - css include -->
-    <link rel="stylesheet" type="text/css" href="assets/css/slick.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css">
-
-    <!-- popup - css include -->
-    <link rel="stylesheet" type="text/css" href="assets/css/magnific-popup.css">
-
-    <!-- jquery-ui - css include -->
-    <link rel="stylesheet" type="text/css" href="assets/css/jquery-ui.css">
-
-    <!-- custom - css include -->
-    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-
-  </head>
   <body>
 
     <!-- body_wrap - start -->
@@ -47,60 +21,7 @@
 
       <!-- header_section - start
       ================================================== -->
-      <header class="header_section style_3">
-        <div class="content_wrap">
-          <div class="container maxw_1720">
-            <div class="row align-items-center">
-
-              <div class="col-lg-2 col-md-6 col-6">
-                <div class="brand_logo">
-                  <a class="brand_link" href="index_1.html">
-                    <img src="assets/images/logo/logo.png" srcset="assets/images/logo/logo_black_2x.png 2x" alt="logo_not_found" width="100px" height="50px">
-                  </a>
-                </div>
-              </div>
-
-              <div class="col-lg-10 col-md-6 col-6">
-                <nav class="main_menu navbar navbar-expand-lg">
-                  <button class="mobile_menu_btn navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main_menu_dropdown" aria-controls="main_menu_dropdown" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"><i class="fa-solid fa-bars"></i></span>
-                  </button>
-                  <div class="main_menu_inner collapse navbar-collapse" id="main_menu_dropdown">
-                    <ul class="main_menu_list ul_li">
-                      <li>
-                        <a class="nav-link" href="index.html" id="home_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          Accueil
-                        </a>
-                      </li>
-                      <li class="dropdown">
-                        <a class="nav-link" href="about.html" id="about_submenu" role="button">A Propos</a>
-                      <li class="dropdown">
-                        <a class="nav-link" href="#blog" id="experience_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          Blog
-                        </a>
-                      </li>
-                      <li class="dropdown">
-                      <a class="nav-link" href="#" id="portfolio_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                        Nos services 
-                      </a>
-                      <ul class="submenu dropdown-menu" aria-labelledby="portfolio_submenu">
-                        <li><a href="service.html">Nos offres de services</a></li>
-                        <li><a href="shop_details.html">Shop Details</a></li>
-                      </ul>
-                    </li>
-                      <li>
-                        <a class="nav-link" href="#contact">Contactez-nous</a>
-                      </li>
-                    </ul>
-                  </div>
-                </nav>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- collapse search - end -->
-      </header>
+      
       <main>
         <!-- slider_section - start
         ================================================== -->
@@ -386,133 +307,9 @@
 
       <!-- footer_section - start
       ================================================== -->
-      <footer class="footer_section">
-        <div class="footer_widget_area" style="background-image: url(assets/images/backgrounds/bg_04.png);">
-          <div class="container">
-            <div class="row justify-content-center">
-              <div class="col-lg-5 col-md-6 col-sm-7">
-                <div class="footer_subscribe_form text-center wow fadeInUp" data-wow-delay=".1s">
-                  <h2 class="form_title text-uppercase">Coffee Build your Fresh mind</h2>
-                  <form action="#">
-                    <div class="form_item">
-                      <input type="email" name="email" placeholder="Enter your email">
-                      <button class="btn btn_primary text-uppercase" type="submit">Subscribe Now</button>
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
+      <?php include_once 'includes/footer.php'; ?>
+ 
 
-            <div class="row justify-content-lg-between">
-              <div class="col-lg-3 col-md-4 col-sm-6">
-                <div class="footer_widget footer_about wow fadeInUp" data-wow-delay=".1s">
-                  <div class="brand_logo">
-                    <a class="brand_link" href="index_1.html">
-                      <img src="assets/images/logo/logo.png" srcset="assets/images/logo/logo_black_2x.png 2x" alt="logo_not_found">
-                    </a>
-                  </div>
-
-                  <p>
-                    Rorem ipsum dolorconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniaminventore veritatis et.orem ipsum dolorconsectetur adipisicing elit, sed do eiusmod tempor incididunt aneye.
-                  </p>
-
-                  <ul class="social_links social_icons ul_li">
-                    <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-                    <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-                    <li><a href="#!"><i class="fab fa-instagram"></i></a></li>
-                    <li><a href="#!"><i class="fab fa-youtube"></i></a></li>
-                    <li><a href="#!"><i class="fab fa-behance"></i></a></li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-lg-3 col-md-4 col-sm-6">
-                <div class="footer_widget footer_contact wow fadeInUp" data-wow-delay=".2s">
-                  <h3 class="footer_widget_title text-uppercase">Contact us</h3>
-                  <ul class="ul_li_block">
-                    <li><strong class="text-uppercase">Adress:</strong> 8638 Amarica Stranfod Mailbon Star</li>
-                    <li><strong class="text-uppercase">Mail:</strong> Israfilsupol836@gmail.com</li>
-                    <li><strong class="text-uppercase">Phone:</strong> +7464 0187 3535 645</li>
-                    <li><strong class="text-uppercase">Fax id:</strong> +9 659459 49594</li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-lg-3 col-md-4 col-sm-6">
-                <div class="footer_widget footer_opening_time wow fadeInUp" data-wow-delay=".3s">
-                  <h3 class="footer_widget_title text-uppercase">Opening Hours</h3>
-                  <ul class="ul_li_block">
-                    <li>
-                      Monday
-                      <span>9:00 - 18:00</span>
-                    </li>
-                    <li>
-                      tuesday
-                      <span>10:00 - 18:00</span>
-                    </li>
-                    <li>
-                      wednestday
-                      <span>11:00 - 18:00</span>
-                    </li>
-                    <li>
-                      Thusday
-                      <span>12:00 - 18:00</span>
-                    </li>
-                    <li>
-                      Friday
-                      <span>14:00 - 18:00</span>
-                    </li>
-                    <li>
-                      saterday
-                      <span>16:00 - 18:00</span>
-                    </li>
-                    <li>
-                      Sunday
-                      <span>closed</span>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
-              <div class="col-lg-3 col-md-4 col-sm-6">
-                <div class="footer_widget footer_recent_post wow fadeInUp" data-wow-delay=".4s">
-                  <h3 class="footer_widget_title text-uppercase">Recent News</h3>
-
-                  <div class="recent_post">
-                    <a class="item_image" href="blog_details.html">
-                      <img src="assets/images/recent_post/img_01.png" alt="image_not_found">
-                    </a>
-                    <div class="item_content">
-                      <h4 class="item_title">
-                        <a href="blog_details.html">Best Smell of Americano Coffee Trins</a>
-                      </h4>
-                      <span class="post_date text-uppercase">December 30 - 2021</span>
-                    </div>
-                  </div>
-
-                  <div class="recent_post">
-                    <a class="item_image" href="blog_details.html">
-                      <img src="assets/images/recent_post/img_02.png" alt="image_not_found">
-                    </a>
-                    <div class="item_content">
-                      <h4 class="item_title">
-                        <a href="blog_details.html">Best Smell of Americano Coffee Trins</a>
-                      </h4>
-                      <span class="post_date text-uppercase">December 30 - 2021</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="footer_bottom text-center">
-          <div class="container">
-            <p class="copyright_text mb-0"> Desing by <a href="https://themeforest.net/user/xpressrow">Xpressrow</a></p>
-          </div>
-        </div>
-      </footer>
       <!-- footer_section - end
       ================================================== -->
 
