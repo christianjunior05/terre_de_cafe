@@ -32,13 +32,9 @@
                         </a>
                       </li>
                       <li class="dropdown">
-                      <a class="nav-link" href="#" id="portfolio_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      <a class="nav-link" href="service.php" id="portfolio_submenu" role="button">
                         Nos services 
                       </a>
-                      <ul class="submenu dropdown-menu" aria-labelledby="portfolio_submenu">
-                        <li><a href="service.php">service</a></li>
-                        <li><a href="shop_details.php">Shop Details</a></li>
-                      </ul>
                     </li>
                       <li>
                         <a class="nav-link" href="contact.php">Contactez-nous</a>

@@ -261,8 +261,8 @@
             <div class="row align-items-center justify-content-lg-between">
               <div class="col-lg-6 col-md-6 order-last">
                 <div class="about_image1 wow fadeInRight" data-wow-delay=".1s">
-                  <img src="assets/images/about/img_01.png" alt="image_not_found">
-                  <div class="year_content_wrap text-uppercase" style="background-image: url(assets/images/about/bg_01.png);">
+                  <img src="assets/images/about/1.avif" alt="image_not_found">
+                  <div class="year_content_wrap text-uppercase" >
                     <div class="content_wrap">
                       <span>5 <small>ans</small></span>
                       <strong>d'experience</strong>
@@ -327,7 +327,7 @@
             <div class="row g-0">
               <div class="col-lg-6">
                 <div class="recipe_menu3_image wow fadeInUp" data-wow-delay=".1s">
-                  <img src="assets/images/menu/img_06.jpg" alt="image_not_found">
+                  <img src="assets/images/about/az.avif" alt="image_not_found">
                 </div>
                 <div class="recipe_menu3_image wow fadeInUp" data-wow-delay=".2s">
                   <img src="assets/images/menu/img_07.jpg" alt="image_not_found">
