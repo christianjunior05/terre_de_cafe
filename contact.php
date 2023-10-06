@@ -21,21 +21,9 @@
 
       <!-- preloader - start -->
       <div id="preloader"></div>
-      <!-- preloader - end -->
 
-      <!-- header_section - start
-      ================================================== -->
-      
-      <!-- header_section - end
-      ================================================== -->
-
-      <!-- main body - start
-      ================================================== -->
       <main>
-        <!-- slider_section - start
-        ================================================== -->
-       
-    
+
         <section class="contact_section sec_ptb_120 bg_default_gray" id="contact">
           <div class="container">
             <div class="contact_form bg_white wow fadeInUp" data-wow-delay=".1s">
