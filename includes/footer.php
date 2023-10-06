@@ -20,7 +20,7 @@
                 <div class="footer_widget footer_about wow fadeInUp" data-wow-delay=".1s">
                   <div class="brand_logo">
                     <a class="brand_link" href="index_1.html">
-                      <img src="assets/images/logo/logo_black_1x.png" srcset="assets/images/logo/logo_black_2x.png 2x" alt="logo_not_found">
+                      <img src="assets/images/logo/logo.png" srcset="assets/images/logo/logo_black_2x.png 2x" alt="logo_not_found">
                     </a>
                   </div>
 

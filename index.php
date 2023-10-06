@@ -344,7 +344,7 @@
                   </div>
 
                   <ul class="filters-button-group style_3 ul_li wow fadeInUp" data-wow-delay=".3s">
-                    <li><button class="button text-uppercase active" data-filter="*">all</button></li>
+                    <li><button class="button text-uppercase active" data-filter="*">Tous</button></li>
                     <li><button class="button text-uppercase" data-filter=".chocolate">chocolate</button></li>
                     <li><button class="button text-uppercase" data-filter=".coffee">coffee</button></li>
                     <li><button class="button text-uppercase" data-filter=".sandwiches">sandwiches</button></li>
