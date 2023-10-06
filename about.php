@@ -40,7 +40,7 @@
             <h1 class="page_title text-white wow fadeInUp" data-wow-delay=".1s">About us</h1>
             <ul class="breadcrumb_nav ul_li wow fadeInUp" data-wow-delay=".2s">
               <li><a href="index_1.html"><i class="fas fa-home"></i> Home</a></li>
-              <li>About Us</li>
+              <li>A Propos</li>
             </ul>
           </div>
           <div class="breadcrumb_icon_wrap">
