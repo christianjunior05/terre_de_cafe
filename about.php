@@ -27,19 +27,16 @@
 
       <main>
 
-        <!-- cart_sidebar - start
-        ================================================== -->
- 
-        <!-- cart_sidebar - end
-        ================================================== -->
+
 
         <!-- breadcrumb_section - start
         ================================================== -->
-        <section class="breadcrumb_section text-uppercase" style="background-image: url(assets/images/breadcrumb/breadcrumb_bg_01.jpg);">
+        <section class="breadcrumb_section text-uppercase" style="background-image: url(assets/images/breadcrumb/breadcrumb_bg_01.jpg) ;">
           <div class="container">
-            <h1 class="page_title text-white wow fadeInUp" data-wow-delay=".1s">About us</h1>
+            <h1 class="page_title text-white wow fadeInUp" data-wow-delay=".1s">A Propos</h1>
             <ul class="breadcrumb_nav ul_li wow fadeInUp" data-wow-delay=".2s">
-              <li><a href="index_1.html"><i class="fas fa-home"></i> Home</a></li>
+
+            
               <li>A Propos</li>
             </ul>
           </div>
