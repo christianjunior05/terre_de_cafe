@@ -4,7 +4,6 @@
 
 <?php include_once 'includes/header.php'; ?>
 <?php include_once 'includes/navbar.php'; ?>
- 
 
 
   <body>
@@ -61,8 +60,8 @@
                 <div class="about_image2 wow fadeInUp" data-wow-delay=".1s">
                   <img src="assets/images/about/img_02.png" alt="image_not_found">
                   <div class="year_content_wrap text-uppercase">
-                    <span>Since....</span>
-                    <strong>1996</strong>
+                    <span>Depuis....</span>
+                    <strong>2018</strong>
                   </div>
                   <div class="leaf_image">
                     <img src="assets/images/decorations/leaf_02.png" alt="image_not_found">
@@ -73,40 +72,22 @@
               <div class="col-lg-5 col-md-5">
                 <div class="about_content">
                   <div class="section_title text-uppercase">
-                    <h2 class="small_title wow fadeInUp" data-wow-delay=".1s"><i class="fas fa-coffee"></i> about us</h2>
                     <h3 class="big_title wow fadeInUp" data-wow-delay=".2s">
-                      <u>27 Years of experience</u>
+                      <u>5 ans d'experience</u>
                     </h3>
                   </div>
                   <p class="wow fadeInUp" data-wow-delay=".3s">
-                    From a cultural standpoint, coffeehouses largely serve as centers of social interaction: the coffeehouse provides patrons with a place to congregate, talk, read, write, entertain one another, or pass the time, whether individually or in small groups.
+                  Chez Terre de café, nous sommes animés depuis plus de 5 ans par notre passion pour le café ,
+                  notre respect de l'environnement et notre souci des personnes.
+                  Nous agissons pour minimiser notre empreinte écologique tout en développant notre implication
+                  dans nos communautés pour un avenir plus durable et plus solidaire.
                   </p>
-                  <ul class="about_info ul_li_block">
-                    <li class="wow fadeInUp" data-wow-delay=".4s">
-                      <h4 class="text-uppercase">There is all about our cafenod coffee shops</h4>
-                      <p class="mb-0">
-                        The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an opportunity to sample
-                      </p>
-                    </li>
-                    <li class="wow fadeInUp" data-wow-delay=".5s">
-                      <h4 class="text-uppercase">This is followed by the grinding</h4>
-                      <p class="mb-0">
-                        The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an opportunity to sample the aromatic smoke by wafting it towards them.
-                      </p>
-                    </li>
-                  </ul>
+               
                   <ul class="btns_group ul_li wow fadeInUp" data-wow-delay=".6s">
-                    <li>
-                      <a class="btn btn_primary text-uppercase" href="about.html">Learn more</a>
-                    </li>
                     <li>
                       <div class="chip_item">
                         <div class="chip_thumbnail">
                           <img src="assets/images/meta/img_01.png" alt="image_not_found">
-                        </div>
-                        <div class="chip_content text-uppercase">
-                          <h5 class="chip_name">rasalina De Willamson</h5>
-                          <span class="chip_title">Founder & CO</span>
                         </div>
                       </div>
                     </li>
