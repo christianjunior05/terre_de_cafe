@@ -24,9 +24,6 @@
 
       <main>
 
-      Bien sûr, vous souhaitez améliorer la partie des cases à cocher (checkbox) dans le formulaire. Je vais utiliser des éléments Bootstrap pour améliorer la présentation des cases à cocher. Voici le code HTML amélioré :
-
-```html
 <section class="contact_section sec_ptb_120 bg_default_gray" id="contact">
   <div class="container">
     <div class="contact_form bg_white wow fadeInUp" data-wow-delay=".1s">
@@ -87,6 +84,38 @@
             </label>
           </div>
         </fieldset>
+        <fieldset class="mb-3">
+          <legend>Consommation de café</legend>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="__field_29029" value="Bureaux & entreprises" id="sector_bureaux">
+            <label class="form-check-label" for="sector_bureaux">
+              moins de 50 tasses/jour
+            </label>
+          </div>
+
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="__field_29029" value="Hôtel camping & gite" id="sector_hotel">
+            <label class="form-check-label" for="sector_hotel">
+              50-100 tasses par jour
+            </label>
+          </div>
+
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="__field_29029" value="Etablissement de santé" id="sector_sante">
+            <label class="form-check-label" for="sector_sante">
+             100 -200 tasses par jour
+            </label>
+          </div>
+
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="__field_29029" value="Café & restaurant" id="sector_cafe">
+            <label class="form-check-label" for="sector_cafe">
+            Plus de 200 tasses par jour 
+            </label>
+          </div>
+
+        </fieldset>
+
 
         <div class="form_item">
           <textarea name="message" placeholder="Your Massage:"></textarea>
