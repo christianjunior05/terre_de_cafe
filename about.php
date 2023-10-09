@@ -30,7 +30,7 @@
 
         <!-- breadcrumb_section - start
         ================================================== -->
-        <section class="breadcrumb_section text-uppercase" style="background-image: url(assets/images/breadcrumb/breadcrumb_bg_01.jpg) ;">
+        <section class="breadcrumb_section text-uppercase" style="background-image: url(assets/images/breadcrumb/5.jpg) ;">
           <div class="container">
             <h1 class="page_title text-white wow fadeInUp" data-wow-delay=".1s">A Propos</h1>
             <ul class="breadcrumb_nav ul_li wow fadeInUp" data-wow-delay=".2s">
@@ -57,16 +57,7 @@
           <div class="container">
             <div class="row align-items-center justify-content-lg-between">
               <div class="col-lg-6 col-md-6 order-last">
-                <div class="about_image2 wow fadeInUp" data-wow-delay=".1s">
-                  <img src="assets/images/about/img_02.png" alt="image_not_found">
-                  <div class="year_content_wrap text-uppercase">
-                    <span>Depuis....</span>
-                    <strong>2018</strong>
-                  </div>
-                  <div class="leaf_image">
-                    <img src="assets/images/decorations/leaf_02.png" alt="image_not_found">
-                  </div>
-                </div>
+               
               </div>
 
               <div class="col-lg-5 col-md-5">
@@ -82,39 +73,12 @@
                   Nous agissons pour minimiser notre empreinte écologique tout en développant notre implication
                   dans nos communautés pour un avenir plus durable et plus solidaire.
                   </p>
-               
-                  <ul class="btns_group ul_li wow fadeInUp" data-wow-delay=".6s">
-                    <li>
-                      <div class="chip_item">
-                        <div class="chip_thumbnail">
-                          <img src="assets/images/meta/img_01.png" alt="image_not_found">
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
+
                 </div>
               </div>
             </div>
 
-            <div class="our_history_area">
-              <div class="row align-items-center">
-                <div class="col-lg-2 col-md-2">
-                  <div class="item_icon wow fadeInUp" data-wow-delay=".1s">
-                    <img src="assets/images/feature/icon_01.png" alt="icon_not_found">
-                    <span class="bg_shape"></span>
-                  </div>
-                </div>
-                <div class="col-lg-5 col-md-5 order-first wow fadeInUp" data-wow-delay=".2s">
-                  <h3 class="item_title text-uppercase">HIstory of our Cafenod Coffee house</h3>
-                </div>
-                <div class="col-lg-5 col-md-5">
-                  <p class="wow fadeInUp" data-wow-delay=".3s">
-                    The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an opportunity to sample The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. 
-                  </p>
-                </div>
-              </div>
-            </div>
-
+      
             <div class="row">
               <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="feature_primary wow fadeInUp" data-wow-delay=".1s">
@@ -173,140 +137,6 @@
         <!-- about_section - end
         ================================================== -->
 
-        <!-- testimonial_section - start
-        ================================================== -->
-        <section class="testimonial_section sec_ptb_120 deco_wrap bg_gray">
-          <div class="container">
-            <div class="testimonial_slider wow fadeInUp" data-wow-delay=".2s">
-              <div class="testimonial_item_1 slider_item">
-                <div class="row align-items-center">
-                  <div class="col-lg-6">
-                    <div class="item_image2">
-                      <img src="assets/images/testimonial/img_02.png" alt="image_not_found">
-                      <div class="quote_icon2">
-                        <img src="assets/images/testimonial/icon_02.png" alt="image_not_found">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="item_content">
-                      <div class="section_title text-uppercase">
-                        <h3 class="small_title"><i class="fas fa-coffee"></i> Client Testimonial</h3>
-                        <h4 class="big_title">
-                          Our client say something about cafenod
-                        </h4>
-                      </div>
-                      <p>
-                        Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuey.
-                      </p>
-                      <div class="testimonial_admin text-uppercase">
-                        <h5 class="admin_name">rasalina De Willamson</h5>
-                        <ul class="rating_star ul_li">
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="far fa-star"></i></li>
-                        </ul>
-                        <span class="admin_title">Founder & CO</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="testimonial_item_1 slider_item">
-                <div class="row align-items-center">
-                  <div class="col-lg-6">
-                    <div class="item_image2">
-                      <img src="assets/images/testimonial/img_02.png" alt="image_not_found">
-                      <div class="quote_icon2">
-                        <img src="assets/images/testimonial/icon_02.png" alt="image_not_found">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="item_content">
-                      <div class="section_title text-uppercase">
-                        <h3 class="small_title"><i class="fas fa-coffee"></i> Client Testimonial</h3>
-                        <h4 class="big_title">
-                          Our client say something about cafenod
-                        </h4>
-                      </div>
-                      <p>
-                        Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuey.
-                      </p>
-                      <div class="testimonial_admin text-uppercase">
-                        <h5 class="admin_name">rasalina De Willamson</h5>
-                        <ul class="rating_star ul_li">
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="far fa-star"></i></li>
-                        </ul>
-                        <span class="admin_title">Founder & CO</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="testimonial_item_1 slider_item">
-                <div class="row align-items-center">
-                  <div class="col-lg-6">
-                    <div class="item_image2">
-                      <img src="assets/images/testimonial/img_02.png" alt="image_not_found">
-                      <div class="quote_icon2">
-                        <img src="assets/images/testimonial/icon_02.png" alt="image_not_found">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="item_content">
-                      <div class="section_title text-uppercase">
-                        <h3 class="small_title"><i class="fas fa-coffee"></i> Client Testimonial</h3>
-                        <h4 class="big_title">
-                          Our client say something about cafenod
-                        </h4>
-                      </div>
-                      <p>
-                        Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuey.
-                      </p>
-                      <div class="testimonial_admin text-uppercase">
-                        <h5 class="admin_name">rasalina De Willamson</h5>
-                        <ul class="rating_star ul_li">
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="far fa-star"></i></li>
-                        </ul>
-                        <span class="admin_title">Founder & CO</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="deco_item thumbnail_1 wow fadeInUp" data-wow-delay=".1s">
-            <img src="assets/images/testimonial/thumbnail_01.png" alt="image_not_found">
-          </div>
-          <div class="deco_item thumbnail_2 wow fadeInUp" data-wow-delay=".2s">
-            <img src="assets/images/testimonial/thumbnail_02.png" alt="image_not_found">
-          </div>
-          <div class="deco_item thumbnail_3 wow fadeInUp" data-wow-delay=".3s">
-            <img src="assets/images/testimonial/thumbnail_03.png" alt="image_not_found">
-          </div>
-          <div class="deco_item thumbnail_4 wow fadeInUp" data-wow-delay=".4s">
-            <img src="assets/images/testimonial/thumbnail_04.png" alt="image_not_found">
-          </div>
-          <div class="deco_item thumbnail_5 wow fadeInUp" data-wow-delay=".5s">
-            <img src="assets/images/testimonial/thumbnail_05.png" alt="image_not_found">
-          </div>
-        </section>
         <!-- testimonial_section - end
         ================================================== -->
 

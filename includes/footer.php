@@ -4,7 +4,7 @@
             <div class="row justify-content-center">
               <div class="col-lg-5 col-md-6 col-sm-7">
                 <div class="footer_subscribe_form text-center wow fadeInUp" data-wow-delay=".1s">
-                  <h2 class="form_title text-uppercase">Coffee Build your Fresh mind</h2>
+                  <h2 class="form_title text-uppercase">LE CAFÉ CONSTRUIT VOTRE ESPRIT NEUF</h2>
                   <form action="#">
                     <div class="form_item">
                       <input type="email" name="email" placeholder="Enter your email">
@@ -83,36 +83,7 @@
                   </ul>
                 </div>
               </div>
-
-              <div class="col-lg-3 col-md-4 col-sm-6">
-                <div class="footer_widget footer_recent_post wow fadeInUp" data-wow-delay=".4s">
-                  <h3 class="footer_widget_title text-uppercase">Recent News</h3>
-
-                  <div class="recent_post">
-                    <a class="item_image" href="blog_details.html">
-                      <img src="assets/images/recent_post/img_01.png" alt="image_not_found">
-                    </a>
-                    <div class="item_content">
-                      <h4 class="item_title">
-                        <a href="blog_details.html">Best Smell of Americano Coffee Trins</a>
-                      </h4>
-                      <span class="post_date text-uppercase">December 30 - 2021</span>
-                    </div>
-                  </div>
-
-                  <div class="recent_post">
-                    <a class="item_image" href="blog_details.html">
-                      <img src="assets/images/recent_post/img_02.png" alt="image_not_found">
-                    </a>
-                    <div class="item_content">
-                      <h4 class="item_title">
-                        <a href="blog_details.html">Best Smell of Americano Coffee Trins</a>
-                      </h4>
-                      <span class="post_date text-uppercase">December 30 - 2021</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
+              
             </div>
           </div>
         </div>

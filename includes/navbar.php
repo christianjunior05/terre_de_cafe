@@ -2,7 +2,6 @@
         <div class="content_wrap">
           <div class="container maxw_1720">
             <div class="row align-items-center">
-
               <div class="col-lg-2 col-md-6 col-6">
                 <div class="brand_logo">
                   <a class="brand_link" href="index.php">
@@ -24,12 +23,7 @@
                         </a>
                       </li>
                       <li class="dropdown">
-                        <a class="nav-link" href="about.php" id="about_submenu" role="button" >A Propos</a>
-                      </li>
-                      <li class="dropdown">
-                        <a class="nav-link" href="#" id="experience_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          Blog
-                        </a>
+                        <a class="nav-link" href="about.php" id="about_submenu" role="button">A Propos</a>
                       </li>
                       <li class="dropdown">
                       <a class="nav-link" href="service.php" id="portfolio_submenu" role="button">
