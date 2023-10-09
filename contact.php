@@ -34,17 +34,24 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="form_item">
-              <input type="text" name="name" placeholder="Your name:">
+              <input type="text" name="nom" placeholder="Votre nom">
             </div>
           </div>
           <div class="col-lg-6">
             <div class="form_item">
-              <input type="email" name="email" placeholder="Your Mail:">
+              <input type="email" name="email" placeholder="Votre Mail:">
             </div>
           </div>
+        
         </div>
         <div class="form_item">
-          <input type="text" name="subject" placeholder="Enter Your Subject:">
+          <input type="text" name="subject" placeholder="Nom de l'etablissement ou de l'entreprise ">
+        </div>
+        <div class="form_item">
+          <input type="text" name="subject" placeholder="Votre fonction ">
+        </div>
+        <div class="form_item">
+          <input type="text" name="subject" placeholder="Votre besoin ">
         </div>
         
         <fieldset class="mb-3">
@@ -103,7 +110,7 @@
           <div class="form-check">
             <input class="form-check-input" type="radio" name="__field_29029" value="Etablissement de santé" id="sector_sante">
             <label class="form-check-label" for="sector_sante">
-             100 -200 tasses par jour
+            100 -200 tasses par jour
             </label>
           </div>
 
@@ -113,15 +120,14 @@
             Plus de 200 tasses par jour 
             </label>
           </div>
-
         </fieldset>
 
 
         <div class="form_item">
-          <textarea name="message" placeholder="Your Massage:"></textarea>
+          <textarea name="message" placeholder="Votre message :"></textarea>
         </div>
         <div class="text-center">
-          <button type="submit" class="btn btn_primary text-uppercase">Envoyer Le message</button>
+          <button type="submit" class="btn btn_primary text-uppercase">Envoyer </button>
         </div>
       </form>
     </div>

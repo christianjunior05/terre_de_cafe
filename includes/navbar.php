@@ -25,7 +25,7 @@
                       </li>
                       <li class="dropdown">
                         <a class="nav-link" href="about.php" id="about_submenu" role="button" >A Propos</a>
-                       </li>
+                      </li>
                       <li class="dropdown">
                         <a class="nav-link" href="#" id="experience_submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                           Blog

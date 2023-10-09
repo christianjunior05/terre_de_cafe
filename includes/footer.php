@@ -8,7 +8,7 @@
                   <form action="#">
                     <div class="form_item">
                       <input type="email" name="email" placeholder="Enter your email">
-                      <button class="btn btn_primary text-uppercase" type="submit">Subscribe Now</button>
+                      <button class="btn btn_primary text-uppercase" type="submit">Souscrire</button>
                     </div>
                   </form>
                 </div>
@@ -19,15 +19,13 @@
               <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="footer_widget footer_about wow fadeInUp" data-wow-delay=".1s">
                   <div class="brand_logo">
-                    <a class="brand_link" href="index_1.html">
-                      <img src="assets/images/logo/logo.png" srcset="assets/images/logo/logo_black_2x.png 2x" alt="logo_not_found">
+                    <a class="brand_link" href="index.html">
+                      <img src="assets/images/logo/logo.png"  alt="logo_not_found">
                     </a>
                   </div>
-
                   <p>
-                    Rorem ipsum dolorconsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniaminventore veritatis et.orem ipsum dolorconsectetur adipisicing elit, sed do eiusmod tempor incididunt aneye.
+                  Fournisseur de services de café de bureau (OCS) basé à Abidjan, en Côte d'Ivoire. Grâce à son équipe d’experts et de passionnés, vous bénéficierez d’un service de grande qualité pour le bonheur et la satisfaction de vos clients et employés
                   </p>
-
                   <ul class="social_links social_icons ul_li">
                     <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
                     <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
@@ -40,7 +38,7 @@
 
               <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="footer_widget footer_contact wow fadeInUp" data-wow-delay=".2s">
-                  <h3 class="footer_widget_title text-uppercase">Contact us</h3>
+                  <h3 class="footer_widget_title text-uppercase">Contactez nous</h3>
                   <ul class="ul_li_block">
                     <li><strong class="text-uppercase">Adress:</strong> 8638 Amarica Stranfod Mailbon Star</li>
                     <li><strong class="text-uppercase">Mail:</strong> Israfilsupol836@gmail.com</li>
@@ -121,7 +119,7 @@
 
         <div class="footer_bottom text-center">
           <div class="container">
-            <p class="copyright_text mb-0"> Desing by <a href="https://themeforest.net/user/xpressrow">Xpressrow</a></p>
+            <p class="copyright_text mb-0"> Desing par <a href="https://www.linkedin.com/in/christian-junior-braffo-/">Christian Junior Braffo</a></p>
           </div>
         </div>
       </footer>

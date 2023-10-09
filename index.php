@@ -235,7 +235,7 @@
                     <span class="item_serial">5</span>
                     <img src="assets/images/feature/icon_04.png" alt="icon_not_found">
                   </div>
-                  <h3 class="item_title text-uppercase mb-0">Wide assortment</h3>
+                  <h3 class="item_title text-uppercase mb-0">VASTE ASSORTIMENT</h3>
                 </div>
               </div>
 
@@ -279,14 +279,13 @@
                     </h3>
                   </div>
                   <p class="wow fadeInUp" data-wow-delay=".3s">
-                    From a cultural standpoint, coffeehouses largely serve as centers of social interaction: the coffeehouse provides patrons with a place to congregate, talk, read, write, entertain one another, or pass the time,
-                    whether individually or in small groups.
+                  Nos solutions professionnelles parfaitement adaptées pour votre établissement
                   </p>
                   <ul class="about_info ul_li_block">
                     <li class="wow fadeInUp" data-wow-delay=".4s">
-                      <h4 class="text-uppercase"><i class="far fa-square-full"></i> There is all about our cafenod coffee shops</h4>
+                      <h4 class="text-uppercase"><i class="far fa-square-full"></i> re complète de solutions café professionnelles :</h4>
                       <p class="mb-0">
-                        The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an opportunity to sample
+                      Machines à café, distributeurs automatiques de boissons chaudes, de snacks et boissons, fontaines à eau
                       </p>
                     </li>
                     <li class="wow fadeInUp" data-wow-delay=".5s">
