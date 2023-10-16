@@ -101,25 +101,7 @@
                       <a class="btn btn_primary text-uppercase" href="menu.html" data-animation="fadeInUp" data-delay=".8s">testy Coffee</a>
                     </div>
                   </div>
-                  <div class="col-lg-3 col-md-6">
-                    <ul class="info_list ul_li_block text-uppercase">
-                      <li data-animation="fadeInUp" data-delay=".4s">
-                        <h4 class="percentage_text">100<sub>%</sub></h4>
-                        <h5 class="item_title">natural Grades</h5>
-                        <span class="circle_shape"></span>
-                      </li>
-                      <li data-animation="fadeInUp" data-delay=".6s">
-                        <h4 class="percentage_text">0<sub>%</sub></h4>
-                        <h5 class="item_title">polution point</h5>
-                        <span class="circle_shape"></span>
-                      </li>
-                      <li data-animation="fadeInUp" data-delay=".8s">
-                        <h4 class="percentage_text">100<sub>%</sub></h4>
-                        <h5 class="item_title">Proper roasting</h5>
-                        <span class="circle_shape"></span>
-                      </li>
-                    </ul>
-                  </div>
+                
                 </div>
                 <strong class="big_text text-uppercase text-center" data-animation="fadeInRight" data-delay=".4s">cafenod</strong>
                 <ul class="social_links social_icons ul_li" data-animation="fadeInRight" data-delay=".6s">
@@ -203,8 +185,6 @@
                           <h4>Contrat sérenité</h4>
                           Un passage régulier du gestionnaire afin de réapprovisionner les machines selon la consommation. 
                         </p>
-                      <li>
-                      </li>
                     </ul>
                   </div>
                 </div>
@@ -226,8 +206,6 @@
                           <h4>Télémétrie</h4>
                           Pour votre établissement, différentes solutions monétiques innovantes sont mises à disposition. 
                         </p>
-                      <li>
-                      </li>
                     </ul>
                   </div>
                 </div>
