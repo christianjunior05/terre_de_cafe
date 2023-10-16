@@ -7,7 +7,7 @@
                   <h2 class="form_title text-uppercase">LE CAFÉ CONSTRUIT VOTRE ESPRIT NEUF</h2>
                   <form action="#">
                     <div class="form_item">
-                      <input type="email" name="email" placeholder="Enter your email">
+                      <input type="email" name="email" placeholder="Entrez votre email">
                       <button class="btn btn_primary text-uppercase" type="submit">Souscrire</button>
                     </div>
                   </form>
@@ -50,7 +50,7 @@
 
               <div class="col-lg-3 col-md-4 col-sm-6">
                 <div class="footer_widget footer_opening_time wow fadeInUp" data-wow-delay=".3s">
-                  <h3 class="footer_widget_title text-uppercase">Opening Hours</h3>
+                  <h3 class="footer_widget_title text-uppercase">Heure d'ouverture</h3>
                   <ul class="ul_li_block">
                     <li>
                       Monday
@@ -83,14 +83,13 @@
                   </ul>
                 </div>
               </div>
-              
             </div>
           </div>
         </div>
 
         <div class="footer_bottom text-center">
           <div class="container">
-            <p class="copyright_text mb-0"> Desing par <a href="https://www.linkedin.com/in/christian-junior-braffo-/">Christian Junior Braffo</a></p>
+            <p class="copyright_text mb-0"> Fait par <a href="https://www.linkedin.com/in/christian-junior-braffo-/">Christian Junior Braffo</a></p>
           </div>
         </div>
       </footer>

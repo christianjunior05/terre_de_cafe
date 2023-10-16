@@ -42,10 +42,10 @@
                   </div>
                 
                 </div>
-                <strong class="big_text text-uppercase text-center" data-animation="fadeInRight" data-delay=".4s">cafenod</strong>
+                <strong class="big_text text-uppercase text-center" data-animation="fadeInRight" data-delay=".4s">terredecafe</strong>
                 <ul class="social_links social_icons ul_li" data-animation="fadeInRight" data-delay=".6s">
                   <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-                  <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
+                  <li><a href="https://www.linkedin.com/company/terredecafe/"><i class="fab fa-linkedin"></i></a></li>
                   <li><a href="#!"><i class="fab fa-instagram"></i></a></li>
                   <li><a href="#!"><i class="fab fa-youtube"></i></a></li>
                   <li><a href="#!"><i class="fab fa-behance"></i></a></li>
@@ -98,7 +98,6 @@
                         <h4>Une offre sur-Mesure</h4>
                         Nous définissons ensemble d'un modèle qui convient à votre besoin : location, achat ou mise à disposition et approvisionnement régulier, café gratuit ou payant...
                       </p>
-                      <a class="btn btn_primary text-uppercase" href="menu.html" data-animation="fadeInUp" data-delay=".8s">testy Coffee</a>
                     </div>
                   </div>
                 
