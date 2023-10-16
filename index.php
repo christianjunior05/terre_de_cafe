@@ -1,6 +1,5 @@
 <!doctype html>
 <html lang="fr">
-
 <?php include_once 'includes/header.php'; ?>
 <?php include_once 'includes/navbar.php'; ?>
 
@@ -144,8 +143,8 @@
                   <img src="assets/images/about/1.avif" alt="image_not_found">
                   <div class="year_content_wrap text-uppercase" >
                     <div class="content_wrap">
-                      <span>5 <small>ans</small></span>
-                      <strong>d'experience</strong>
+                      <strong>Depuis </strong>
+                      <span>2018</span>
                     </div>
                   </div>
                 </div>
@@ -155,7 +154,7 @@
                   <div class="section_title text-uppercase">
                     <h2 class="small_title wow fadeInUp" data-wow-delay=".1s"><i class="fas fa-coffee"></i> A propos</h2>
                     <h3 class="big_title wow fadeInUp" data-wow-delay=".2s">
-                          TOUT SAVOIR SUR TERRE DE CAFE
+                          TOUT SAVOIR SUR TERREDECAFE
                     </h3>
                   </div>
                   <p class="wow fadeInUp" data-wow-delay=".3s">
@@ -218,15 +217,7 @@
                     </h3>
                   </div>
 
-                  <ul class="filters-button-group style_3 ul_li wow fadeInUp" data-wow-delay=".3s">
-                    <li><button class="button text-uppercase active" data-filter="*">Tous</button></li>
-                    <li><button class="button text-uppercase" data-filter=".chocolate">chocolate</button></li>
-                    <li><button class="button text-uppercase" data-filter=".coffee">coffee</button></li>
-                    <li><button class="button text-uppercase" data-filter=".sandwiches">sandwiches</button></li>
-                    <li><button class="button text-uppercase" data-filter=".sweets">sweets</button></li>
-                    <li><button class="button text-uppercase" data-filter=".blacktea">black tea</button></li>
-                    <li><button class="button text-uppercase" data-filter=".greantea">grean tea</button></li>
-                  </ul>
+               
 
                   <div class="recipe_item_grid grid wow fadeInUp" data-wow-delay=".4s">
                     <div class="element-item chocolate greantea " data-category="chocolate">
@@ -370,7 +361,7 @@
                       <div class="section_title text-uppercase">
                         <h3 class="small_title"><i class="fas fa-coffee"></i>Avis client</h3>
                         <h4 class="big_title">
-                          Our client say something about cafenod
+                       Ils nous ont fait confiance
                         </h4>
                       </div>
                       <p>

@@ -71,25 +71,6 @@
                       <a class="btn btn_primary text-uppercase" href="menu.html" data-animation="fadeInUp" data-delay=".8s">testy Coffee</a>
                     </div>
                   </div>
-                  <div class="col-lg-3 col-md-6">
-                    <ul class="info_list ul_li_block text-uppercase">
-                      <li data-animation="fadeInUp" data-delay=".4s">
-                        <h4 class="percentage_text">100<sub>%</sub></h4>
-                        <h5 class="item_title">natural Grades</h5>
-                        <span class="circle_shape"></span>
-                      </li>
-                      <li data-animation="fadeInUp" data-delay=".6s">
-                        <h4 class="percentage_text">0<sub>%</sub></h4>
-                        <h5 class="item_title">polution point</h5>
-                        <span class="circle_shape"></span>
-                      </li>
-                      <li data-animation="fadeInUp" data-delay=".8s">
-                        <h4 class="percentage_text">100<sub>%</sub></h4>
-                        <h5 class="item_title">Proper roasting</h5>
-                        <span class="circle_shape"></span>
-                      </li>
-                    </ul>
-                  </div>
                 </div>
                 <strong class="big_text text-uppercase text-center" data-animation="fadeInRight" data-delay=".4s">cafenod</strong>
                 <ul class="social_links social_icons ul_li" data-animation="fadeInRight" data-delay=".6s">
@@ -186,24 +167,8 @@
                   
                       <p class="mb-0">
                         <h4>Maintenance</h4>
-                        The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an opportunity to sample the aromatic smoke by wafting it towards them.
+                          Régulierement nous nous rendrons dans vos locaux pour faire la vidange de la machine 
                       </p>
-                    </li>
-                  </ul>
-                  <ul class="btns_group ul_li wow fadeInUp" data-wow-delay=".6s">
-                    <li>
-                      <a class="btn btn_primary text-uppercase" href="about.html">Learn more</a>
-                    </li>
-                    <li>
-                      <div class="chip_item">
-                        <div class="chip_thumbnail">
-                          <img src="assets/images/meta/img_01.png" alt="image_not_found">
-                        </div>
-                        <div class="chip_content text-uppercase">
-                          <h5 class="chip_name">rasalina De Willamson</h5>
-                          <span class="chip_title">Founder & CO</span>
-                        </div>
-                      </div>
                     </li>
                   </ul>
                 </div>
@@ -239,15 +204,6 @@
                           Un passage régulier du gestionnaire afin de réapprovisionner les machines selon la consommation. 
                         </p>
                       <li>
-                        <div class="chip_item">
-                          <div class="chip_thumbnail">
-                            <img src="assets/images/meta/img_01.png" alt="image_not_found">
-                          </div>
-                          <div class="chip_content text-uppercase">
-                            <h5 class="chip_name">rasalina De Willamson</h5>
-                            <span class="chip_title">Founder & CO</span>
-                          </div>
-                        </div>
                       </li>
                     </ul>
                   </div>
@@ -271,15 +227,6 @@
                           Pour votre établissement, différentes solutions monétiques innovantes sont mises à disposition. 
                         </p>
                       <li>
-                        <div class="chip_item">
-                          <div class="chip_thumbnail">
-                            <img src="assets/images/meta/img_01.png" alt="image_not_found">
-                          </div>
-                          <div class="chip_content text-uppercase">
-                            <h5 class="chip_name">rasalina De Willamson</h5>
-                            <span class="chip_title">Founder & CO</span>
-                          </div>
-                        </div>
                       </li>
                     </ul>
                   </div>
