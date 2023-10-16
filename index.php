@@ -184,10 +184,6 @@
                         <div class="chip_thumbnail">
                           <img src="assets/images/meta/img_01.png" alt="image_not_found">
                         </div>
-                        <div class="chip_content text-uppercase">
-                          <h5 class="chip_name">rasalina De Willamson</h5>
-                          <span class="chip_title">Founder & CO</span>
-                        </div>
                       </div>
                     </li>
                   </ul>
@@ -539,7 +535,7 @@
                   <div class="item_icon"><i class="fa-solid fa-envelope"></i></div>
                   <div class="item_content">
                     <h3 class="item_title text-uppercase">Adresse email</h3>
-                    <p>Israfilsupol836@gmail.com</p>
+                   
                     <p>jelokra@gmail.com</p>
                   </div>
                 </div>

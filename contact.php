@@ -3,8 +3,6 @@
 <?php include_once 'includes/header.php'; ?>
 <?php include_once 'includes/navbar.php'; ?>
 
-
-
   <body>
 
     <!-- body_wrap - start -->
@@ -13,12 +11,10 @@
       <!-- backtotop - start -->
       <div class="backtotop">
         <a href="#" class="scroll">
-          
           <i class="fa-solid fa-arrow-up"></i>
         </a>
       </div>
       <!-- backtotop - end -->
-
       <!-- preloader - start -->
       <div id="preloader"></div>
 
