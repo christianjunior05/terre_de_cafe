@@ -22,6 +22,7 @@
 
 <section class="contact_section sec_ptb_120 bg_default_gray" id="contact">
   <div class="container">
+    <h1 class="text-center">Contactez-nous</h1>
     <div class="contact_form bg_white wow fadeInUp" data-wow-delay=".1s">
       <div class="main_contact_info_wrap">
         <!-- Vos informations de contact -->
