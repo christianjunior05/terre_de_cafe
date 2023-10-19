@@ -8,14 +8,12 @@ if (isset($_POST['validez'])) {
         $name = htmlspecialchars($_POST['nom']);
         $email = htmlspecialchars($_POST['email']);
         $name_entreprise = htmlspecialchars($_POST['nom_entreprise']);
-        $function = htmlspecialchars($_POST['function']);
+        $function = htmlspecialchars($_POST['fonction']);
         $secteur = htmlspecialchars($_POST['secteur']);
         $conso = htmlspecialchars($_POST['conso']);
 
-        $pattern = '/^\+?[0-9\s.-]+$/';
-        if (preg_match($pattern, $phone)) {
-            if (filter_var($email, FILTER_VALIDATE_EMAIL)) {
-                $ajout_entreprise = $conn->prepare('INSERT INTO contact (jour, rs, mail, adresse, tel, objet) VALUES (?, ?, ?, ?, ?, ?)');
+
+        $ajout_entreprise = $conn->prepare('INSERT INTO contact (nom,  mail, nom_entreprise, fonction, secteur, conso) VALUES (?, ?, ?, ?, ?, ?)');
                 $ajout_entreprise->execute(array($jour, $name, $email, $adresse, $phone, $objet));
                 header('Location: reponse.php');
                 $_POST['nom'] = "";
@@ -33,4 +31,3 @@ if (isset($_POST['validez'])) {
     } else {
         $erreur = "Veuillez remplir tous les champs";
     }
-}

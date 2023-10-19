@@ -44,7 +44,7 @@
           <input type="text" name="nom_entreprise" placeholder="Nom de l'etablissement ou de l'entreprise ">
         </div>
         <div class="form_item">
-          <input type="text" name="function" placeholder="Votre fonction ">
+          <input type="text" name="fonction" placeholder="Votre fonction ">
         </div>
         <div class="form_item">
           <input type="text" name="subject" placeholder="Votre besoin ">
