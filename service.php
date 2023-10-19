@@ -164,7 +164,6 @@
                 <div class="col-lg-6 col-md-6 order-last">
                   <div class="about_image1 wow fadeInRight" data-wow-delay=".1s">
                     <img src="assets/images/about/1.webp" alt="image_not_found">
-                    
                   </div>
                 </div>
                 <div class="col-lg-6 col-md-6">

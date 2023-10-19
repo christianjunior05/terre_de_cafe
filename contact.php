@@ -41,10 +41,10 @@
         
         </div>
         <div class="form_item">
-          <input type="text" name="subject" placeholder="Nom de l'etablissement ou de l'entreprise ">
+          <input type="text" name="nom_entreprise" placeholder="Nom de l'etablissement ou de l'entreprise ">
         </div>
         <div class="form_item">
-          <input type="text" name="subject" placeholder="Votre fonction ">
+          <input type="text" name="function" placeholder="Votre fonction ">
         </div>
         <div class="form_item">
           <input type="text" name="subject" placeholder="Votre besoin ">
@@ -53,35 +53,35 @@
         <fieldset class="mb-3">
           <legend>Votre secteur d'activité</legend>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Bureaux & entreprises" id="sector_bureaux">
+            <input class="form-check-input" type="radio" name="secteur" value="Bureaux & entreprises" id="sector_bureaux">
             <label class="form-check-label" for="sector_bureaux">
               Bureaux & entreprises
             </label>
           </div>
 
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Hôtel camping & gite" id="sector_hotel">
+            <input class="form-check-input" type="radio" name="secteur" value="Hôtel camping & gite" id="sector_hotel">
             <label class="form-check-label" for="sector_hotel">
               Hôtel, camping & gite
             </label>
           </div>
 
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Etablissement de santé" id="sector_sante">
+            <input class="form-check-input" type="radio" name="secteur" value="Etablissement de santé" id="sector_sante">
             <label class="form-check-label" for="sector_sante">
               Etablissement de santé
             </label>
           </div>
 
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Café & restaurant" id="sector_cafe">
+            <input class="form-check-input" type="radio" name="secteur" value="Café & restaurant" id="sector_cafe">
             <label class="form-check-label" for="sector_cafe">
               Café & restaurant
             </label>
           </div>
 
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Ecole & université" id="sector_ecole">
+            <input class="form-check-input" type="radio" name="secteur" value="Ecole & université" id="sector_ecole">
             <label class="form-check-label" for="sector_ecole">
               Ecole & université
             </label>
@@ -90,28 +90,28 @@
         <fieldset class="mb-3">
           <legend>Consommation de café</legend>
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Bureaux & entreprises" id="sector_bureaux">
+            <input class="form-check-input" type="radio" name="conso" value="-50" id="sector_bureaux">
             <label class="form-check-label" for="sector_bureaux">
               moins de 50 tasses/jour
             </label>
           </div>
 
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Hôtel camping & gite" id="sector_hotel">
+            <input class="form-check-input" type="radio" name="conso" value="50-100" id="sector_hotel">
             <label class="form-check-label" for="sector_hotel">
               50-100 tasses par jour
             </label>
           </div>
 
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Etablissement de santé" id="sector_sante">
+            <input class="form-check-input" type="radio" name="conso" value="100-200" id="sector_sante">
             <label class="form-check-label" for="sector_sante">
             100 -200 tasses par jour
             </label>
           </div>
 
           <div class="form-check">
-            <input class="form-check-input" type="radio" name="__field_29029" value="Café & restaurant" id="sector_cafe">
+            <input class="form-check-input" type="radio" name="conso" value="Café & restaurant" id="sector_cafe">
             <label class="form-check-label" for="sector_cafe">
             Plus de 200 tasses par jour 
             </label>
@@ -123,7 +123,7 @@
           <textarea name="message" placeholder="Votre message :"></textarea>
         </div>
         <div class="text-center">
-          <button type="submit" class="btn btn_primary text-uppercase">Envoyer </button>
+          <button type="submit" name="validez" class="btn btn_primary text-uppercase">Envoyer </button>
         </div>
       </form>
     </div>
