@@ -1,7 +1,7 @@
-<!doctype html>
-<html lang="fr">
+
 <?php include_once 'includes/header.php'; ?>
 <?php include_once 'includes/navbar.php'; ?>
+<?php include_once 'controller.php'; ?>
 
   <body>
 
@@ -27,7 +27,7 @@
       <div class="main_contact_info_wrap">
         <!-- Vos informations de contact -->
       </div>
-      <form action="#">
+      <form method="post" action="controller.php">
         <div class="row">
           <div class="col-lg-6">
             <div class="form_item">
