@@ -162,30 +162,19 @@
                   </p>
                   <ul class="about_info ul_li_block">
                     <li class="wow fadeInUp" data-wow-delay=".4s">
-                      <h4 class="text-uppercase"><i class="far fa-square-full"></i> re complète de solutions café professionnelles :</h4>
+                      <h4 class="text-uppercase"><i class="far fa-square-full"></i> Nous proposons des solutions café professionnelles :</h4>
                       <p class="mb-0">
-                      Machines à café, distributeurs automatiques de boissons chaudes, de snacks et boissons, fontaines à eau
+                      Machines à café, distributeurs automatiques de boissons chaudes, de snacks et boissons
                       </p>
                     </li>
                     <li class="wow fadeInUp" data-wow-delay=".5s">
-                      <h4 class="text-uppercase"><i class="far fa-square-full"></i> This is followed by the grinding</h4>
+                      <h4 class="text-uppercase"><i class="far fa-square-full"></i> Le meilleur café local</h4>
                       <p class="mb-0">
-                        The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an opportunity to sample the aromatic smoke by wafting it towards them.
+                      Le café est infusé en torréfiant d'abord les grains de café verts sur des charbons ardents dans un brasero. Une fois les grains torréfiés, chaque participant a la possibilité de goûter à la fumée aromatique en l'agitant dans sa direction.
                       </p>
                     </li>
                   </ul>
-                  <ul class="btns_group ul_li wow fadeInUp" data-wow-delay=".6s">
-                    <li>
-                      <a class="btn btn_primary text-uppercase" href="about.html">Learn more</a>
-                    </li>
-                    <li>
-                      <div class="chip_item">
-                        <div class="chip_thumbnail">
-                          <img src="assets/images/meta/img_01.png" alt="image_not_found">
-                        </div>
-                      </div>
-                    </li>
-                  </ul>
+              
                 </div>
               </div>
             </div>
