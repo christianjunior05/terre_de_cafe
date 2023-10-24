@@ -48,7 +48,7 @@
           <input type="text" name="fonction" placeholder="Votre fonction ">
         </div>
         <div class="form_item">
-          <input type="text" name="subject" placeholder="Votre besoin ">
+          <input type="text" name="besoin" placeholder="Votre besoin ">
         </div>
         
         <fieldset class="mb-3">
@@ -121,7 +121,7 @@
 
 
         <div class="form_item">
-          <textarea name="message" placeholder="Votre message :"></textarea>
+          <textarea name="sms" placeholder="Votre message :"></textarea>
         </div>
         <div class="text-center">
           <button type="submit" name="validez" class="btn btn_primary text-uppercase">Envoyer </button>
