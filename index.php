@@ -235,10 +235,10 @@
                           </a>
                           <div class="item_content">
                             <h3 class="item_title text-uppercase">
-                              <a href="shop_details.html">special raw coffee</a>
+                              <a href="shop_details.html">Nespresso</a>
                             </h3>
                             <p class="mb-0">
-                              The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an 
+                              Café corsé 
                             </p>
                           </div>
                         </div>
@@ -270,10 +270,10 @@
                           </a>
                           <div class="item_content">
                             <h3 class="item_title text-uppercase">
-                              <a href="shop_details.html">Bangladeshi green tea</a>
+                              <a href="shop_details.html">thé vert</a>
                             </h3>
                             <p class="mb-0">
-                              The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an 
+                            Ce café  a une saveur équilibrée, avec des notes épicées et terreuses qui sont tout à fait uniques
                             </p>
                           </div>
                         </div>
@@ -288,10 +288,10 @@
                           </a>
                           <div class="item_content">
                             <h3 class="item_title text-uppercase">
-                              <a href="shop_details.html">Rolatina Sweets cafe house</a>
+                              <a href="shop_details.html">thé locale</a>
                             </h3>
                             <p class="mb-0">
-                              The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an 
+                             Le meilleur café au monde
                             </p>
                           </div>
                         </div>
@@ -306,10 +306,10 @@
                           </a>
                           <div class="item_content">
                             <h3 class="item_title text-uppercase">
-                              <a href="shop_details.html">special raw coffee</a>
+                              <a href="shop_details.html">Capuccino</a>
                             </h3>
                             <p class="mb-0">
-                              The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an 
+                              Le meilleur café pour se remettre de sa journée 
                             </p>
                           </div>
                         </div>
@@ -336,11 +336,7 @@
               <div class="testimonial_item_1 slider_item">
                 <div class="row align-items-center">
                   <div class="col-lg-6">
-                    <div class="item_image">
-                      <img src="assets/images/testimonial/img_03.jpg" alt="image_not_found">
-                      <div class="quote_icon">
-                        <img src="assets/images/testimonial/icon_01.png" alt="image_not_found">
-                      </div>
+
                     </div>
                   </div>
                   <div class="col-lg-6">
@@ -373,19 +369,11 @@
               <div class="testimonial_item_1 slider_item">
                 <div class="row align-items-center">
                   <div class="col-lg-6">
-                    <div class="item_image">
-                      <img src="assets/images/testimonial/img_03.jpg" alt="image_not_found">
-                      <div class="quote_icon">
-                        <img src="assets/images/testimonial/icon_01.png" alt="image_not_found">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
                     <div class="item_content">
                       <div class="section_title text-uppercase">
-                        <h3 class="small_title"><i class="fas fa-coffee"></i> Client Testimonial</h3>
+                        <h3 class="small_title"><i class="fas fa-coffee"></i> Avis clients</h3>
                         <h4 class="big_title">
-                          Our client say something about cafenod
+                          Decouvrez notre cafe
                         </h4>
                       </div>
                       <p>
@@ -409,20 +397,13 @@
 
               <div class="testimonial_item_1 slider_item">
                 <div class="row align-items-center">
-                  <div class="col-lg-6">
-                    <div class="item_image">
-                      <img src="assets/images/testimonial/img_03.jpg" alt="image_not_found">
-                      <div class="quote_icon">
-                        <img src="assets/images/testimonial/icon_01.png" alt="image_not_found">
-                      </div>
-                    </div>
                   </div>
                   <div class="col-lg-6">
                     <div class="item_content">
                       <div class="section_title text-uppercase">
-                        <h3 class="small_title"><i class="fas fa-coffee"></i> Client Testimonial</h3>
+                        <h3 class="small_title"><i class="fas fa-coffee"></i> Avis clients</h3>
                         <h4 class="big_title">
-                          Our client say something about cafenod
+                          Art teck
                         </h4>
                       </div>
                       <p>
@@ -444,56 +425,21 @@
                 </div>
               </div>
 
-              <div class="testimonial_item_1 slider_item">
-                <div class="row align-items-center">
-                  <div class="col-lg-6">
-                    <div class="item_image">
-                      <img src="assets/images/testimonial/img_03.jpg" alt="image_not_found">
-                      <div class="quote_icon">
-                        <img src="assets/images/testimonial/icon_01.png" alt="image_not_found">
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-lg-6">
-                    <div class="item_content">
-                      <div class="section_title text-uppercase">
-                        <h3 class="small_title"><i class="fas fa-coffee"></i> Client Testimonial</h3>
-                        <h4 class="big_title">
-                          Our client say something about cafenod
-                        </h4>
-                      </div>
-                      <p>
-                      Terredecafe se distingue par son service client réactif. J'ai reçu une assistance immédiate lorsque j'ai eu des questions, ce qui a grandement amélioré mon expérience
-                      </p>
-                      <div class="testimonial_admin text-uppercase">
-                        <h5 class="admin_name">rasalina De Willamson</h5>
-                        <ul class="rating_star ul_li">
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="fas fa-star"></i></li>
-                          <li><i class="far fa-star"></i></li>
-                        </ul>
-                        <span class="admin_title">Founder & CO</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+          
             </div>
           </div>
 
           <div class="deco_item thumbnail_1 wow fadeInUp" data-wow-delay=".1s">
-            <img src="assets/images/testimonial/thumbnail_01.png" alt="image_not_found">
+      
           </div>
           <div class="deco_item thumbnail_2 wow fadeInUp" data-wow-delay=".2s">
-            <img src="assets/images/testimonial/thumbnail_02.png" alt="image_not_found">
+         
           </div>
           <div class="deco_item thumbnail_3 wow fadeInUp" data-wow-delay=".3s">
-            <img src="assets/images/testimonial/thumbnail_03.png" alt="image_not_found">
+    
           </div>
           <div class="deco_item thumbnail_4 wow fadeInUp" data-wow-delay=".4s">
-            <img src="assets/images/testimonial/thumbnail_04.png" alt="image_not_found">
+      
           </div>
         </section>
         <!-- testimonial_section - end
