@@ -86,9 +86,9 @@
                     <span class="item_serial">1</span>
                     <img src="assets/images/feature/icon_01.png" alt="icon_not_found">
                   </div>
-                  <h3 class="item_title text-uppercase">awesomae aroma</h3>
+                  <h3 class="item_title text-uppercase">Arome exceptionnelle</h3>
                   <p class="mb-0">
-                    The coffee is brewed by first roasting the green coffee beans 
+                   Café aux aromes naturels 
                   </p>
                 </div>
               </div>
@@ -99,9 +99,8 @@
                     <span class="item_serial">2</span>
                     <img src="assets/images/feature/icon_02.png" alt="icon_not_found">
                   </div>
-                  <h3 class="item_title text-uppercase">high quality</h3>
-                  <p class="mb-0">
-                    The coffee is brewed by first roasting the green coffee beans 
+                  <h3 class="item_title text-uppercase">Qualité supérieure<h3>
+                   Un café d'excellente qualité
                   </p>
                 </div>
               </div>
@@ -112,9 +111,9 @@
                     <span class="item_serial">3</span>
                     <img src="assets/images/feature/icon_03.png" alt="icon_not_found">
                   </div>
-                  <h3 class="item_title text-uppercase">pure grades</h3>
+                  <h3 class="item_title text-uppercase">pure grains</h3>
                   <p class="mb-0">
-                    The coffee is brewed by first roasting the green coffee beans 
+                   Un café cultivé dans les milleurs conditions 
                   </p>
                 </div>
               </div>
@@ -125,9 +124,9 @@
                     <span class="item_serial">4</span>
                     <img src="assets/images/feature/icon_04.png" alt="icon_not_found">
                   </div>
-                  <h3 class="item_title text-uppercase">proper roasting</h3>
+                  <h3 class="item_title text-uppercase">gout supérieur</h3>
                   <p class="mb-0">
-                    The coffee is brewed by first roasting the green coffee beans 
+                   Un café au gout supérieur
                   </p>
                 </div>
               </div>
