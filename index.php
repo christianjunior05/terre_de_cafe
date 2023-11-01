@@ -202,7 +202,7 @@
                   <div class="section_title text-uppercase">
                     <h2 class="small_title wow fadeInUp" data-wow-delay=".1s"><i class="fas fa-coffee"></i> Nos Menus spéciaux </h2>
                     <h3 class="big_title wow fadeInUp" data-wow-delay=".2s">
-                    Terre de café
+                    Terredecafé
                     </h3>
                   </div>
 
@@ -217,10 +217,10 @@
                           </a>
                           <div class="item_content">
                             <h3 class="item_title text-uppercase">
-                              <a href="shop_details.html">americano Super hot coffee</a>
+                              <a href="shop_details.html">  Café american</a>
                             </h3>
                             <p class="mb-0">
-                              The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an 
+                            Le café est préparé en torréfiant d'abord les grains de café verts sur des charbons ardents dans un brasero. Une fois les grains torréfiés, chaque participant se voit remettre une tasse de café.
                             </p>
                           </div>
                         </div>
@@ -249,15 +249,13 @@
                     <div class="element-item sandwiches sweets " data-category="sandwiches">
                       <div class="recipe_item style_3">
                         <div class="content_col">
-                          <a class="item_image" href="shop_details.html">
-                            <img src="assets/images/menu/img_03.png" alt="image_not_found">
-                          </a>
+                         
                           <div class="item_content">
                             <h3 class="item_title text-uppercase">
-                              <a href="shop_details.html">indian pure tea</a>
+                              <a href="shop_details.html">pure thé indien</a>
                             </h3>
                             <p class="mb-0">
-                              The coffee is brewed by first roasting the green coffee beans over hot coals in a brazier. Once the beans are roasted each participant is given an 
+                            Ce thé a une saveur équilibrée, avec des notes épicées et terreuses qui sont tout à fait uniques
                             </p>
                           </div>
                         </div>

@@ -21,16 +21,16 @@ include_once 'controller.php';
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 sidebar-left">
-                    <div class="single-curses-contert">
+                  
                         <div class="description-content">
-                            <h2 class="text-success">Félicitations ! Votre demande a été envoyée avec succes</h2>
+                           
 
                             <p>
                                 <button class="btn btn-lg btn-warning" onclick="history.back()"><i class="fas fa-arrow-left"></i> Retour</button>
                             </p>
-
+                            <h2 class="text-success">Félicitations ! Votre demande a été envoyée avec succes</h2>
                         </div>
-                    </div>
+                  
                 </div>
             </div>
         </div>

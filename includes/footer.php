@@ -41,8 +41,8 @@
                   <h3 class="footer_widget_title text-uppercase">Contactez nous</h3>
                   <ul class="ul_li_block">
                     <li><strong class="text-uppercase">Adress:</strong> 8638 Amarica Stranfod Mailbon Star</li>
-                    <li><strong class="text-uppercase">Mail:</strong> Israfilsupol836@gmail.com</li>
-                    <li><strong class="text-uppercase">Phone:</strong> +7464 0187 3535 645</li>
+                    <li><strong class="text-uppercase">Email:</strong> Israfilsupol836@gmail.com</li>
+                    <li><strong class="text-uppercase">Numéro de telephone :</strong> +7464 0187 3535 645</li>
                     <li><strong class="text-uppercase">Fax id:</strong> +9 659459 49594</li>
                   </ul>
                 </div>
@@ -53,32 +53,32 @@
                   <h3 class="footer_widget_title text-uppercase">Heure d'ouverture</h3>
                   <ul class="ul_li_block">
                     <li>
-                      Monday
-                      <span>9:00 - 18:00</span>
+                    Lundi
+                      <span>08:00 - 17:00</span>
                     </li>
                     <li>
-                      tuesday
-                      <span>10:00 - 18:00</span>
+                      Mardi
+                      <span>08:00 - 17:00</span>
                     </li>
                     <li>
-                      wednestday
-                      <span>11:00 - 18:00</span>
+                      Mercredi
+                      <span>08:00 - 17:00</span>
                     </li>
                     <li>
-                      Thusday
-                      <span>12:00 - 18:00</span>
+                      Jeudi
+                      <span>08:00 - 17:00</span>
                     </li>
                     <li>
-                      Friday
-                      <span>14:00 - 18:00</span>
+                      Vendredi
+                      <span>08:00 - 17:00</span>
                     </li>
                     <li>
-                      saterday
-                      <span>16:00 - 18:00</span>
+                      Samedi
+                      <span>8:00 - 12:00</span>
                     </li>
                     <li>
-                      Sunday
-                      <span>closed</span>
+                      Dimanche
+                      <span>Fermé</span>
                     </li>
                   </ul>
                 </div>
