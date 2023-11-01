@@ -196,13 +196,7 @@
                       </h3>
                     </div>
                     <p class="wow fadeInUp" data-wow-delay=".3s">
-                      <h4>Facture </h4>
-                    Au choix, recevez une facture papier ou dématérialisée après le paiement de votre commande.
-                    </p>
-                    
-                        <p class="mb-0">
-                          <h4>Télémétrie</h4>
-                          Pour votre établissement, différentes solutions monétiques innovantes sont mises à disposition. 
+                    La solution de paiement sans contact apporte encore plus de bien-être aux consommateurs car elle est rapide, facile et hygiénique. Nos lecteurs fonctionnent avec les cartes sans contact, les cartes à puce ainsi que toute une gamme d’applications de paiement mobile.lissement, différentes solutions monétiques innovantes sont mises à disposition. 
                         </p>
                     </ul>
                   </div>
