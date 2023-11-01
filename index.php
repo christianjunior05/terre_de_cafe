@@ -354,7 +354,7 @@
                         </h4>
                       </div>
                       <p>
-                        Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuey.
+                      Le service d'assistance de Terredecafe est vraiment à la hauteur. Ils sont toujours prêts à aider et à garantir que vous avez une expérience client exceptionnelle.
                       </p>
                       <div class="testimonial_admin text-uppercase">
                         <h5 class="admin_name">rasalina De Willamson</h5>
@@ -391,7 +391,7 @@
                         </h4>
                       </div>
                       <p>
-                        Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuey.
+                      L'efficacité de Terredecafe est impressionnante. Leur équipe technique est compétente et capable de résoudre tout problème rapidement
                       </p>
                       <div class="testimonial_admin text-uppercase">
                         <h5 class="admin_name">rasalina De Willamson</h5>
@@ -428,7 +428,7 @@
                         </h4>
                       </div>
                       <p>
-                        Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuey.
+                      Terredecafe se distingue par son service client réactif. J'ai reçu une assistance immédiate lorsque j'ai eu des questions, ce qui a grandement amélioré mon expérience
                       </p>
                       <div class="testimonial_admin text-uppercase">
                         <h5 class="admin_name">rasalina De Willamson</h5>
@@ -465,7 +465,7 @@
                         </h4>
                       </div>
                       <p>
-                        Rorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatuey.
+                      Terredecafe se distingue par son service client réactif. J'ai reçu une assistance immédiate lorsque j'ai eu des questions, ce qui a grandement amélioré mon expérience
                       </p>
                       <div class="testimonial_admin text-uppercase">
                         <h5 class="admin_name">rasalina De Willamson</h5>
