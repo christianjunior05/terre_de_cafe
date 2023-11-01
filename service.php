@@ -124,7 +124,7 @@
             <div class="row align-items-center justify-content-lg-between">
               <div class="col-lg-6 col-md-6 order-last">
                 <div class="about_image1 wow fadeInRight" data-wow-delay=".1s">
-                  <img src="assets/images/about/1.webp" alt="image_not_found">
+                  <img src="assets/images/coffee.jpg" alt="image_not_found">
                   
                 </div>
               </div>
@@ -145,10 +145,10 @@
                     Nous expertise en réglage de machines vous garantit un café d'une qualité supérieure, grâce à un réglage précis des machines (température, pression de l'eau, mouture).  
                   </p>
                       </p>
-                  
+                      <h4>Maintenance</h4>
                       <p class="mb-0">
-                        <h4>Maintenance</h4>
-                          Régulierement nous nous rendrons dans vos locaux pour faire la vidange de la machine 
+                        
+                      Grâce à notre service technique, vous avez la garantie que toutes nos machines et technologies fonctionnent mieux. Ce service, compris dans notre offre de restauration collective connectée, est également disponible si vous gérez vous-même vos propres machines.
                       </p>
                     </li>
                   </ul>
@@ -196,7 +196,8 @@
                       </h3>
                     </div>
                     <p class="wow fadeInUp" data-wow-delay=".3s">
-                    La solution de paiement sans contact apporte encore plus de bien-être aux consommateurs car elle est rapide, facile et hygiénique. Nos lecteurs fonctionnent avec les cartes sans contact, les cartes à puce ainsi que toute une gamme d’applications de paiement mobile.lissement, différentes solutions monétiques innovantes sont mises à disposition. 
+                    La solution de paiement sans contact apporte encore plus de bien-être aux consommateurs car elle est rapide, facile et hygiénique. Nos lecteurs fonctionnent avec les cartes sans contact,
+                     les cartes à puce ainsi que toute une gamme d’applications de paiement mobile.lissement, différentes solutions monétiques innovantes sont mises à disposition. 
                         </p>
                     </ul>
                   </div>
