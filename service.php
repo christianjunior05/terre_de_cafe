@@ -148,7 +148,7 @@
                       <h4>Maintenance</h4>
                       <p class="mb-0">
                         
-                      Grâce à notre service technique, vous avez la garantie que toutes nos machines et technologies fonctionnent mieux. Ce service, compris dans notre offre de restauration collective connectée, est également disponible si vous gérez vous-même vos propres machines.
+                      Une distribution automatique sans soucis commence avec la promesse d’un service après-vente et d’assistance sur lequel on peut entièrement compter. Nos équipes internes consacrent toute leur énergie à offrir un service de restauration collective connectée, avec nos Joy Ambassador dévoués, dans le but de maintenir vos distributeurs automatiques propres, bien approvisionnés et optimisés pour remplir leur mission, avec constance et fiabilité, 24 heures sur 24, 7 jours sur 7.
                       </p>
                     </li>
                   </ul>
@@ -163,7 +163,7 @@
               <div class="row align-items-center justify-content-lg-between">
                 <div class="col-lg-6 col-md-6 order-last">
                   <div class="about_image1 wow fadeInRight" data-wow-delay=".1s">
-                    <img src="assets/images/about/1.webp" alt="image_not_found">
+                    <img src="assets/images/about/liv.avif" alt="image_not_found">
                   </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
