@@ -4,8 +4,13 @@
             <div class="row justify-content-center">
               <div class="col-lg-5 col-md-6 col-sm-7">
                 <div class="footer_subscribe_form text-center wow fadeInUp" data-wow-delay=".1s">
-                  <h2 class="form_title text-uppercase">LE CAFÉ CONSTRUIT VOTRE ESPRIT NEUF</h2>
-                 
+                  <h2 class="form_title text-uppercase">Recevez notre newsletter caféiné</h2>
+                  <form action="#">
+                    <div class="form_item wow fadeInUp" data-wow-delay=".2s">
+                      <input type="email" name="email" placeholder="Entrer votre  email">
+                      <button class="btn btn_primary text-uppercase" type="submit">Abonnez-vous</button>
+                    </div>
+                  </form>
                   
                 </div>
               </div>

@@ -77,6 +77,21 @@
               </div>
             </div>
 
+            <div class="col-lg-5 col-md-5">
+                <div class="about_content">
+                  <div class="section_title text-uppercase">
+                    <h3 class="big_title wow fadeInUp" data-wow-delay=".2s">
+                      <u>Machine à café Elin</u>
+                    </h3>
+                  </div>
+                  <p class="wow fadeInUp" data-wow-delay=".3s">
+                    <h4>Elin est une machine à café haut de gamme réunissant style et technologie pour une pause-café riche en goût.</h4>
+                    Moderne, compacte et très performante elle s’illustre à tous les niveaux pour vous offrir le meilleur des cafés, facilement au bout de vos doigts. Avec une capacité de 100 tasses par jour, elle séduit par sa qualité et sa fiabilité et trouvera sa place dans les espaces de pause de toutes les entreprises. 
+                    Vos collaborateurs seront conquis.
+                  </p>
+                </div>
+              </div>
+            </div>
       
             <div class="row">
               <div class="col-lg-3 col-md-4 col-sm-6">
